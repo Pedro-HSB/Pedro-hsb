@@ -1,5 +1,11 @@
 ### Seja Bem Vindo Ao Meu Perfil
 
+<h3>
+  <p>My name's Pedro and today I'm studying Systems developer in Etec.</p>
+In my Saturday, studying English. My school the English is <a href="https://www.culturainglesa.com.br/" target="_blank">cultura ingles</a>
+
+  </h3>
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 - 🌱 I’m currently learning PHP,MySql
