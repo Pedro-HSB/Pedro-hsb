@@ -16,14 +16,14 @@
 </div>
 
 ## languages
-<div name="icons">
+<div class="bd-white" name="icons">
   <h2>front-end</h2>
 <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <h2>back-end</h2> 
 <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  <h2>SQL</h2>
-  <img class="bd-white" align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img  align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <h2>software</h2>
   <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
   <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
@@ -33,7 +33,7 @@
   <h2>version control</h2>
   <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 </div>
-## social media
+<h2> social media</h2>
  <div name="social media">
      <a href = "pedro.bernardo4561@gmail.com">
        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
