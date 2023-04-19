@@ -1,8 +1,7 @@
 ### Seja Bem Vindo Ao Meu Perfil
 
 <h3>
-  <p>My name is Pedro, and today I'm studying technical information in ETEC.</p>
-<p>I studied Information Technician in ETEC too, but I finished in 2023.</p>
+  <p>My name is Pedro, and today I'm studying Information Technician in ETEC, and I finished in 2023.</p>
 <p>On Saturday, I studied English. The English at my school is <a href="https://www.culturainglesa.com.br/" target="_blank">cultura inglesa.</a></p>
 <p>I need to become a web developer and get my first job.</p>
 <p>I'm eclectic in everything (movies, music, etc.).</p>
