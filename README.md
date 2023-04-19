@@ -10,7 +10,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-- 🌱 I’m currently learning PHP,MySql
+- 🌱 I’m currently learning PHP,MySql and JavaScript
 - 📫 How to reach me: pedro.bernardo4561@gmail.com
 - 😄 Pronouns: ele/he
 
