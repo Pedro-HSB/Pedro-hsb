@@ -1,15 +1,15 @@
 ### Seja Bem Vindo Ao Meu Perfil
 
 <h3>
-  <p>My name is Pedro, and today I'm studying Information Technician in ETEC, and I finished in 2023.</p>
-<p>On Saturday, I studied English. The English at my school is <a href="https://www.culturainglesa.com.br/" target="_blank">cultura inglesa.</a></p>
+  <p>My name is Pedro, and today I'm studying in a course called Multiplatform Software Development at FATEC, the best public technology college in Brazil.</p>
+<p>On Saturday, I studied English. The English at my school is <a href="https://www.culturainglesa.com.br/"target="_blank">cultura inglesa.</a></p>
 <p>I need to become a web developer and get my first job.</p>
 <p>I'm eclectic in everything (movies, music, etc.).</p>
   </h3>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-- 🌱 I’m currently learning PHP,MySql and JavaScript
+- 🌱 I’m currently learning PHP,MySql,Python and JavaScript
 - 📫 How to reach me: pedro.bernardo4561@gmail.com
 - 😄 Pronouns: ele/he
 
