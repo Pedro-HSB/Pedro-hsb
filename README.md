@@ -18,12 +18,24 @@
 </div>
 
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/pedro-hsb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hsb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+-->
+<picture>
+  <a href="https://github.com/pedro-hsb">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pedro-hsb&layout=compact&langs_count=7&theme=dracula"
+    media="(prefers-color-scheme: dracula)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 ## languages
 <div name="icons">
   <h2>front-end</h2>
