@@ -36,15 +36,18 @@
   <a src="https://github.com/Pedro-HSB/blogpessoal_React">
     <img height=150  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=blogpessoal_React" />
 </a>
+
   <a src="https://github.com/Pedro-HSB/farmacia_spring">
     <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=farmacia_spring" />
 </a>
+
   <a src="https://github.com/Pedro-HSB/Login_React">
     <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=Login_React" />
 </a>
     <a src="https://github.com/Pedro-HSB/bancoDados_generation">
     <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=bancoDados_generation" />
 </a>
+
 </div>
 
 ### 🛠 Technologies
@@ -85,11 +88,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
+
 <h2>🔗 social media</h2>
  <div name="social media">
      <div align="left">
-  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-hs-bernardo/)">
+  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/pedro-hs-bernardo/)">
   </div>
 </div>
 
