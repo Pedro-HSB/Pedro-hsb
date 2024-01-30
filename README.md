@@ -1,20 +1,31 @@
-### Welcome my profile
+# Welcome to My GitHub Profile! 👋
 
-<div align="left" >
-  <h3>
-<p>My name is Pedro, and today I'm studying in a course called Multiplatform Software Development at FATEC, the best public technology college in Brazil.</p>
-<p>On Saturday, I studied English. The English at my school is <a href="https://www.culturainglesa.com.br/"target="_blank">cultura inglesa.</a></p>
-  <p> and I'm studying in a <a href="https://www.linkedin.com/company/generationorg/">Generation Brasil</p>
-  </h3>
+<p>Hello there! I'm Pedro, a passionate learner currently enrolled in the Multiplatform Software Development course at FATEC, renowned as one of the top public technology colleges in Brazil. I'm excited to share my journey and projects with you.</p>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<p>- 📚 I’m currently learning Java,MySql,and React </p>
-<p>- 📩 How to reach me: pedro.bernardo4561@gmail.com</p>
-<p>- 📫 How to reach me: www.linkedin.com/in/pedro-hs-bernardo/</p>
-<p>- 😆 Pronouns: ele/he</p>
-</div>
+## About Me
 
+<p>- 🎓 Studying Multiplatform Software Development at FATEC, Brazil.</p>
+<p>- 🌐 Currently focused on mastering Java, MySql, Spring, and React.</p>
+<p>- 📚 Improving my English skills at <a href="https://www.culturainglesa.com.br/"target="_blank">Cultura Inglesa</a>, aiming for an intermediate (B1) level.</p>
+<p>- 💡 Exploring soft skills like persistence and teamwork at <a href="https://www.linkedin.com/company/generationorg/">Generation Brasil.</a></p>
+<p><a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=k867x25w49fjmckdhdn79rfhu&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=k867x25w49fjmckdhdn79rfhu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"/>
+</a>
 
+## Tech Stack
+
+<p>- 🚀 Actively learning and working on Java, MySql, Spring, and React.
+
+## How to Reach Me
+
+<p>- 📩 Email: pedro.bernardo4561@gmail.com</p>
+<p>- 🌐 LinkedIn: <a href="www.linkedin.com/in/pedro-hs-bernardo/">Pedro LinkedIn</p>
+
+## Pronouns
+
+- 😆 Pronouns: he/him
+
+## 📚Programming Languages And Repositories
 <div>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=4&hide=html" />
   <img height=245 src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
@@ -81,3 +92,8 @@
   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-hs-bernardo/)">
   </div>
 </div>
+
+## Let's Connect!
+
+Feel free to explore my repositories and connect with me on LinkedIn. I'm open to collaboration and always eager to learn from fellow developers. 
+Thanks for stopping by! Let's code and learn together! 🚀
