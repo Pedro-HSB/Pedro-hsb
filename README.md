@@ -20,7 +20,7 @@
 
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
   
-  <img height=100  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=blogpessoal_React" />
+  <img height=200  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=blogpessoal_React" />
 
 
 
