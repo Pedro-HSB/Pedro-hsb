@@ -24,10 +24,9 @@
     srcset="https://github-readme-stats.vercel.app/api?username=pedro-hsb&show_icons=true"
     media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
   />
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&show_icons=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hsb&layout=compact&langs_count=7"/>
-  </div>
 </picture>
     
 ## languages
