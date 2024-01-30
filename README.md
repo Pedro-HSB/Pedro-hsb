@@ -22,6 +22,10 @@
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
 </a>
 
+  <a href="https://github.com/pedro-hsb">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=github-readme-stats" />
+</a>
+
 
 
 ### Languages
