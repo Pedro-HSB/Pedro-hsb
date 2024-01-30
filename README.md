@@ -24,7 +24,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=pedro-hsb&show_icons=true"
     media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&show_icons=true" />
+  
   
   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hsb&size_weight=0.5&count_weight=0.5](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hsb&layout=compact&langs_count=7&theme=dracula)" />
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/api?username=pedro-hsb&layout=compact&langs_count=7"/>-->
