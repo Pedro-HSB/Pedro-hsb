@@ -14,14 +14,16 @@
 <p>- 📫 How to reach me: www.linkedin.com/in/pedro-hs-bernardo/</p>
 <p>- 😄 Pronouns: ele/he</p>
 </div>
-<a href="https://github.com/pedro-hsb">
+<div align="left">
+  <a href="https://github.com/pedro-hsb">
   <img height=200 align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=8&hide=html" />
 </a>
-<picture>
+</div>
+<div align="right">
   <a href="https://github.com/pedro-hsb">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
 </a>
-</picture>
+</div>
     
 ## languages
 <div align="left">
