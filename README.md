@@ -16,12 +16,11 @@
 
 
 
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=8&hide=html&size_weight=5" />
+  <img height=300  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=8&hide=html" />
 
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
-
-
-  <img height=200  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=blogpessoal_React" />
+  
+  <img height=100  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=blogpessoal_React" />
 
 
 
