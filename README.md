@@ -16,7 +16,7 @@
 
 
   <a href="https://github.com/pedro-hsb">
-  <img height=200 align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=8&hide=html" />
+  <img height=200 align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=8&hide=html&size_weight=5" />
 </a>
   <a href="https://github.com/pedro-hsb">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
