@@ -8,23 +8,40 @@
   </h3>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<p>- 🌱 I’m currently learning Java,MySql,Python and JavaScript </p>
+<p>- 🌱 I’m currently learning Java,MySql,and React </p>
 <p>- 📫 How to reach me: pedro.bernardo4561@gmail.com</p>
 <p>- 📫 How to reach me: www.linkedin.com/in/pedro-hs-bernardo/</p>
 <p>- 😄 Pronouns: ele/he</p>
 </div>
 
 
-
+<div>
   <img height=400  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=8&hide=html" />
-
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
   
-  <img height=200  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=blogpessoal_React" />
+</div>
+<div>
+    
+  
 
 
+</div>
+<div>
+  <a src="https://github.com/Pedro-HSB/blogpessoal_React">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=blogpessoal_React" />
+</a>
+  <a src="https://github.com/Pedro-HSB/farmacia_spring">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=farmacia_spring" />
+</a>
+  <a src="https://github.com/Pedro-HSB/Login_React">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=Login_React" />
+</a>
+    <a src="https://github.com/Pedro-HSB/bancoDados_generation">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=bancoDados_generation" />
+</a>
+</div>
 
-### Languages
+### 🛠 Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -62,12 +79,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
-<h2> social media</h2>
+<h2>🔗 social media</h2>
  <div name="social media">
      <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-hs-bernardo/)">
   </div>
+</div>
