@@ -1,4 +1,3 @@
-### Seja Bem Vindo Ao Meu Perfil
 ### Welcome my profile
 
 <div align="left" >
@@ -14,7 +13,7 @@
 <p>- 📫 How to reach me: www.linkedin.com/in/pedro-hs-bernardo/</p>
 <p>- 😄 Pronouns: ele/he</p>
 </div>
-<div align="center">
+<div align="center" width=400>
   <div align="left">
   <a href="https://github.com/pedro-hsb">
   <img height=200 align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=8&hide=html" />
@@ -27,7 +26,7 @@
 </div>
 </div>
     <br>
-## Languages
+### Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
