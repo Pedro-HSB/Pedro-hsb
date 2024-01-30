@@ -1,7 +1,10 @@
 ### Seja Bem Vindo Ao Meu Perfil
 ### Welcome my profile
 
-<div align="center">
+<div align="left" style="    border-color: azure;
+    border-radius: 10px;
+    background-color: darkgray;
+    border-style: groove">
   <h3>
 <p>My name is Pedro, and today I'm studying in a course called Multiplatform Software Development at FATEC, the best public technology college in Brazil.</p>
 <p>On Saturday, I studied English. The English at my school is <a href="https://www.culturainglesa.com.br/"target="_blank">cultura inglesa.</a></p>
