@@ -16,14 +16,12 @@
 </div>
 
 <picture>
-  <a href="https://github.com/pedro-hsb/github-readme-stats">
+  <a href="https://github.com/pedro-hsb">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
 </a>
-<a href="https://github.com/pedro-hsb/convoychat">
-  <img height=200 width=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&layout=pie&langs_count=8&hide=html" />
+<a href="https://github.com/pedro-hsb">
+  <img height=200 width=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=8&hide=html" />
 </a>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hsb&layout=compact&langs_count=7&theme=dracula" />-->
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/api?username=pedro-hsb&layout=compact&langs_count=7"/>-->
 </picture>
     
 ## languages
