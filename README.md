@@ -16,7 +16,6 @@
 </div>
 
 <picture>
-  <a href="https://github.com/pedro-hsb">
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hsb&layout=compact&langs_count=7&theme=dracula"
     media="(prefers-color-scheme: dracula)"
