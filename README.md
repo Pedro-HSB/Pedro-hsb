@@ -16,13 +16,6 @@
 <p>- 📫 How to reach me: www.linkedin.com/in/pedro-hs-bernardo/</p>
 <p>- 😄 Pronouns: ele/he</p>
 
-
-<!--<div align="center">
-  <a href="https://github.com/pedro-hsb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hsb&layout=compact&langs_count=7&theme=dracula"/>
-</div>
--->
 <picture>
   <a href="https://github.com/pedro-hsb">
   <source
@@ -33,7 +26,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=pedro-hsb&show_icons=true"
     media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
   />
-  <div align="center">
+  <div align="center" style="padding:3px">
     <img src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hsb&layout=compact&langs_count=7"/>
   </div>
