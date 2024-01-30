@@ -17,7 +17,7 @@
 
 <picture>
   <a href="https://github.com/pedro-hsb/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-hsb" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
 </a>
 <a href="https://github.com/pedro-hsb/convoychat">
   <img height=200 width=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&layout=pie&langs_count=8&hide=html" />
