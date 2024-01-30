@@ -1,7 +1,8 @@
 ### Seja Bem Vindo Ao Meu Perfil
 ### Welcome my profile
 
-<h3>
+<div align="center">
+  <h3>
 <p>My name is Pedro, and today I'm studying in a course called Multiplatform Software Development at FATEC, the best public technology college in Brazil.</p>
 <p>On Saturday, I studied English. The English at my school is <a href="https://www.culturainglesa.com.br/"target="_blank">cultura inglesa.</a></p>
   <p> and I'm studying in a <a href="https://www.linkedin.com/company/generationorg/">Generation Brasil</p>
@@ -9,16 +10,18 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-- 🌱 I’m currently learning Java,MySql,Python and JavaScript
-- 📫 How to reach me: pedro.bernardo4561@gmail.com
-- 📫 How to reach me: www.linkedin.com/in/pedro-hs-bernardo/
-- 😄 Pronouns: ele/he
+<p>- 🌱 I’m currently learning Java,MySql,Python and JavaScript </p>
+<p>- 📫 How to reach me: pedro.bernardo4561@gmail.com</p>
+<p>- 📫 How to reach me: www.linkedin.com/in/pedro-hs-bernardo/</p>
+<p>- 😄 Pronouns: ele/he</p>
+
+</div>
 
 
 <div align="center">
   <a href="https://github.com/pedro-hsb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hsb&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hsb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## languages
