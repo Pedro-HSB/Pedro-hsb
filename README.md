@@ -16,7 +16,7 @@
 
 
 
-  <img height=300  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=8&hide=html&width=300" />
+  <img height=300  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=8&hide=html&font_size=30" />
 
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
   
