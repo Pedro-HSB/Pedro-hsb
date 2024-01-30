@@ -10,12 +10,11 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+</div>
 <p>- 🌱 I’m currently learning Java,MySql,Python and JavaScript </p>
 <p>- 📫 How to reach me: pedro.bernardo4561@gmail.com</p>
 <p>- 📫 How to reach me: www.linkedin.com/in/pedro-hs-bernardo/</p>
 <p>- 😄 Pronouns: ele/he</p>
-
-</div>
 
 
 <!--<div align="center">
@@ -31,7 +30,7 @@
     media="(prefers-color-scheme: dracula)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=pedro-hsb&show_icons=true"
     media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
