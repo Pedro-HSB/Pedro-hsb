@@ -8,40 +8,35 @@
   </h3>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<p>- 🌱 I’m currently learning Java,MySql,and React </p>
-<p>- 📫 How to reach me: pedro.bernardo4561@gmail.com</p>
+<p>- 📚 I’m currently learning Java,MySql,and React </p>
+<p>- 📩 How to reach me: pedro.bernardo4561@gmail.com</p>
 <p>- 📫 How to reach me: www.linkedin.com/in/pedro-hs-bernardo/</p>
-<p>- 😄 Pronouns: ele/he</p>
+<p>- 😆 Pronouns: ele/he</p>
 </div>
 
 
 <div>
-  <img height=400  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=8&hide=html" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=4&hide=html" />
+  <img height=245 src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
   
 </div>
-<div>
-    
-  
 
-
-</div>
 <div>
   <a src="https://github.com/Pedro-HSB/blogpessoal_React">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=blogpessoal_React" />
+    <img height=150  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=blogpessoal_React" />
 </a>
   <a src="https://github.com/Pedro-HSB/farmacia_spring">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=farmacia_spring" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=farmacia_spring" />
 </a>
   <a src="https://github.com/Pedro-HSB/Login_React">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=Login_React" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=Login_React" />
 </a>
     <a src="https://github.com/Pedro-HSB/bancoDados_generation">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=bancoDados_generation" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=bancoDados_generation" />
 </a>
 </div>
 
-### 🛠 Languages
+### 🛠 Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
