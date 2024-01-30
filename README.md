@@ -20,7 +20,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-hsb" />
 </a>
 <a href="https://github.com/pedro-hsb/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&layout=compact&langs_count=8&card_width=320&hide=html&layout=default" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&layout=demo&langs_count=8&card_width=320&hide=html" />
 </a>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hsb&layout=compact&langs_count=7&theme=dracula" />-->
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/api?username=pedro-hsb&layout=compact&langs_count=7"/>-->
