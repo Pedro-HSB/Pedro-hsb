@@ -8,7 +8,7 @@
 <p>- 🌐 Currently focused on mastering Java, MySql, Spring, and React.</p>
 <p>- 📚 Improving my English skills at <a href="https://www.culturainglesa.com.br/"target="_blank">Cultura Inglesa</a>, aiming for an intermediate (B1) level.</p>
 <p>- 💡 Exploring soft skills like persistence and teamwork at <a href="https://www.linkedin.com/company/generationorg/">Generation Brasil.</a></p>
-<p><a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=k867x25w49fjmckdhdn79rfhu&redirect=true">
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=k867x25w49fjmckdhdn79rfhu&redirect=true">
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=k867x25w49fjmckdhdn79rfhu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"/>
 </a>
 
