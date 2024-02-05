@@ -19,7 +19,7 @@
 ## How to Reach Me
 
 <p>- 📩 Email: pedro.bernardo4561@gmail.com</p>
-<p>- 🌐 LinkedIn: <a href="www.linkedin.com/in/pedro-hs-bernardo/">Pedro LinkedIn</a></p>
+<p>- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/pedro-hs-bernardo/">Pedro LinkedIn</a></p>
 
 ## Pronouns
 
