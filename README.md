@@ -1,7 +1,3 @@
-Claro! Aqui está uma versão adaptada para o perfil do GitHub, mantendo uma abordagem mais concisa, direta e com foco nas suas habilidades e conquistas, além de links e informações que podem ser facilmente acessadas:
-
----
-
 # Hi, I'm Pedro! 👋
 
 I'm a **Full-Stack Developer** with hands-on experience in a variety of technologies and a solid foundation in software development. Currently, I'm in the 4th semester of my **Multiplatform Software Development** degree, and I’ve been working as a Full-Stack Developer, combining both academic and professional experiences to grow as a developer.
