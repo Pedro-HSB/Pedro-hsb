@@ -161,8 +161,9 @@ I focus on results, **collaboration**, and **continuous learning**. I value team
 <h2>🔗 social media</h2>
  <div name="social media">
      <div align="left">
-  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/pedro-hs-bernardo/)">
+       <a href='https://www.linkedin.com/in/pedro-hs-bernardo/'>
+         <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/pedro-hs-bernardo/)">
+       </a>
   </div>
 </div>
 
