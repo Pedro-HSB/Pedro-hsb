@@ -1,25 +1,37 @@
-# Welcome to My GitHub Profile! 👋
+Claro! Aqui está uma versão adaptada para o perfil do GitHub, mantendo uma abordagem mais concisa, direta e com foco nas suas habilidades e conquistas, além de links e informações que podem ser facilmente acessadas:
 
-<p>Hello there! I'm Pedro, a passionate learner currently enrolled in the Multiplatform Software Development course at FATEC, renowned as one of the top public technology colleges in Brazil. I'm excited to share my journey and projects with you.</p>
+---
 
-## About Me
+# Hi, I'm Pedro! 👋
 
-<p>- 🎓 Studying Multiplatform Software Development at FATEC, Brazil.</p>
-<p>- 🌐 Currently focused on mastering Java, MySql, Spring, and React.</p>
-<p>- 📚 Improving my English skills at <a href="https://www.culturainglesa.com.br/"target="_blank">Cultura Inglesa</a>, aiming for an intermediate (B1) level.</p>
-<p>- 💡 Exploring soft skills like persistence and teamwork at <a href="https://www.linkedin.com/company/generationorg/">Generation Brasil.</a></p>
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=k867x25w49fjmckdhdn79rfhu&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=k867x25w49fjmckdhdn79rfhu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
-</a>
+I'm a **Full-Stack Developer** with hands-on experience in a variety of technologies and a solid foundation in software development. Currently, I'm in the 4th semester of my **Multiplatform Software Development** degree, and I’ve been working as a Full-Stack Developer, combining both academic and professional experiences to grow as a developer.
 
-## Tech Stack
+My journey in tech has been shaped by **continuous learning** and **practical application**. Recently, I completed a **bootcamp at Generation Brasil**, which enhanced my skills in web development and software engineering. This complements the knowledge I've gained from my degree and professional work.
 
-<p>- 🚀 Actively learning and working on Java, MySql, Spring, and React.</p>
+## Key Competencies
 
-## How to Reach Me
+### Programming Languages & Technologies
 
-<p>- 📩 Email: pedro.bernardo4561@gmail.com</p>
-<p>- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/pedro-hs-bernardo/">Pedro LinkedIn</a></p>
+* JavaScript, Java, Kotlin, Python, TypeScript, PHP
+* **Web & App Development**: React, Node.js, Android Studio, SCSS, Spring, REST APIs
+* **Databases**: PostgreSQL, MongoDB, MySQL
+
+### Additional Skills
+
+* Machine Learning, Natural Language Processing, Git, GitHub
+* **Development Tools**: SCRUM, Linux, Visual Studio Code, Composer
+
+I have **advanced English proficiency** and a strong passion for learning new technologies, especially when it comes to building **efficient and scalable solutions**.
+
+## My Approach
+
+I focus on results, **collaboration**, and **continuous learning**. I value teamwork and always strive to stay updated with the latest trends and tools in the tech industry.
+
+## Contact
+
+*  Email: [pedro.bernardo4561@gmail.com](mailto:pedro.bernardo4561@gmail.com)
+*  Phone: (11) 9 6339-8584
+
 
 ## 📚Programming Languages And Repositories
 <div>
