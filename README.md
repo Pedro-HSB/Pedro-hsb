@@ -1,173 +1,119 @@
-# Hi, I'm Pedro! 👋
+# Hi, I'm Pedro Henrique Santos Bernardo! 👋
 
-I'm a **Full-Stack Developer** with hands-on experience in a variety of technologies and a solid foundation in software development. Currently, I'm in the 4th semester of my **Multiplatform Software Development** degree, and I’ve been working as a Full-Stack Developer, combining both academic and professional experiences to grow as a developer.
+I'm a **Full-Stack Developer** with hands-on experience in React, Node.js, SCSS, and various databases. I'm currently in the **5th semester of Software Development** at Fatec Diadema, combining academic learning with professional experience to deliver **efficient, scalable, and user-friendly solutions**.
 
-My journey in tech has been shaped by **continuous learning** and **practical application**. Recently, I completed a **bootcamp at Generation Brasil**, which enhanced my skills in web development and software engineering. This complements the knowledge I've gained from my degree and professional work.
+My journey in tech is driven by **continuous learning** and **practical application**. I also completed a **Full Stack Bootcamp (Java + React) at Generation Brasil**, which strengthened my skills in modern web development and software engineering.
+
 
 ## Key Competencies
 
 ### Programming Languages & Technologies
-
-* JavaScript, Java, Kotlin, Python, TypeScript, PHP
-* **Web & App Development**: React, Node.js, Android Studio, SCSS, Spring, REST APIs
-* **Databases**: PostgreSQL, MongoDB, MySQL
+* JavaScript, TypeScript, Java, Kotlin, Python, PHP
+* **Web & App Development**: React, Node.js, Android Studio, SCSS, Spring, CodeIgniter, REST APIs
+* **Databases**: MySQL, PostgreSQL, MongoDB, SQL Server
 
 ### Additional Skills
+* Git, GitHub, Postman, Insomnia, Docker, SCRUM, Linux
+* Machine Learning & NLP (basics)
+* Development Tools: Visual Studio Code, IntelliJ, Composer, FileZilla, Trello, Canva
 
-* Machine Learning, Natural Language Processing, Git, GitHub
-* **Development Tools**: SCRUM, Linux, Visual Studio Code, Composer
-
-I have **advanced English proficiency** and a strong passion for learning new technologies, especially when it comes to building **efficient and scalable solutions**.
-
-## My Approach
-
-I focus on results, **collaboration**, and **continuous learning**. I value teamwork and always strive to stay updated with the latest trends and tools in the tech industry.
-
-## Contact
-
-*  Email: [pedro.bernardo4561@gmail.com](mailto:pedro.bernardo4561@gmail.com)
-*  Phone: (11) 9 6339-8584
+### Languages
+* English – Advanced  
+* Spanish – Basic
 
 
-## 📚Programming Languages And Repositories
+## Professional Experience
+
+### **Siclop Serviços e Sistemas Ltda** – Full-Stack Developer (Mar 2025 – Present)
+* Develop and maintain web applications, creating new modules and user interfaces.  
+* Fix bugs and optimize system performance.  
+* Assist support teams in troubleshooting issues.  
+* Model and maintain MySQL databases for efficiency and scalability.  
+* Technologies: React, TypeScript, Node.js, SCSS, MySQL.
+
+### **Mobilemed Soluções Médicas** – IT Support Analyst (Mar 2024 – Mar 2025)
+* Provided technical support to users on platforms and network systems.  
+* Diagnosed and resolved technical issues, including Linux environments.  
+* Conducted network testing and analysis for performance optimization.  
+* Managed incidents, hotfixes, and collaborated with development teams.
+
+
+## Education
+
+* **B.Sc. Multiplatform Software Development** – Fatec Diadema, 07/2026  
+* **Full Stack Bootcamp (Java + React)** – Generation Brasil, 02/2024  
+* **Technical Diploma in IT** – ETEC Juscelino Kubitschek de Oliveira, 07/2023  
+* **Technical Diploma in Systems Development** – ETEC Juscelino Kubitschek de Oliveira, 12/2022  
+
+
+## Portfolio & Key Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Blog Pessoal** | Frontend in React + Tailwind + Axios connecting to Java API | [Repo](https://github.com/Pedro-HSB/blogpessoal_React) |
+| **PharmaHub** | Interactive React app for healthcare sector with Tailwind + Axios | [Repo](https://github.com/Pedro-HSB/PharmaHub) |
+| **Projeto Integrador (Frontend)** | React + Tailwind + Axios for inclusive education platform | [Repo](https://github.com/Projeto-Integrador-EducaJunto/frontend) |
+| **Projeto Integrador (Backend)** | Spring backend for inclusive education project | [Repo](https://github.com/Projeto-Integrador-EducaJunto/backend) |
+| **Jornada da Inclusão** | Full-stack system (React + Spring + MySQL/PostgreSQL + Docker) for improving school inclusion | [Repo](https://github.com/jornada-da-inclusao) |
+
+---
+
+## 📚 Programming Languages & GitHub Stats
 <div>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=4&hide=html" />
-  <img height=245 src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-hsb&langs_count=6&hide=html" />
+  <img height="245" src="https://github-readme-stats.vercel.app/api?username=pedro-hsb&count_private=true" />
 </div>
 
-<div>
-  <a src="https://github.com/Pedro-HSB/blogpessoal_React">
-    <img height=150  src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=blogpessoal_React" />
-</a>
+---
 
-  <a src="https://github.com/Pedro-HSB/farmacia_spring">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=farmacia_spring" />
-</a>
-
-  <a src="https://github.com/Pedro-HSB/Login_React">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=Login_React" />
-</a>
-    <a src="https://github.com/Pedro-HSB/bancoDados_generation">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=pedro-hsb&repo=bancoDados_generation" />
-</a>
-
-</div>
-
-### 🛠 Technologies
+## 🛠 Technologies
 <div align="left">
 
-  ###
-  
-  ### Front-End
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+### Front-End
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scss/scss-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
+### Back-End
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
+### Tools & Platforms
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+### Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-
-  ###
-  
-  ### Back-End
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-
-  ###
-  
-  ### Tools
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40"/>
-
-  ### Database
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="40" />
-          
 </div>
 
-###
+---
 
-<h2>🔗 social media</h2>
- <div name="social media">
-     <div align="left">
-       <a href='https://www.linkedin.com/in/pedro-hs-bernardo/'>
-         <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/pedro-hs-bernardo/)">
-       </a>
-  </div>
-</div>
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-hs-bernardo/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedro-hsb)  
+
+Email: [pedro.bernardo4561@gmail.com](mailto:pedro.bernardo4561@gmail.com) | Phone: +55 11 96339-8584  
+
+---
 
 ## Let's Connect!
 
-Feel free to explore my repositories and connect with me on LinkedIn. I'm open to collaboration and always eager to learn from fellow developers. 
+Feel free to explore my repositories and reach out. I'm open to international collaboration and eager to contribute to challenging projects.  
 Thanks for stopping by! Let's code and learn together! 🚀
